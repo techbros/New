@@ -234,8 +234,8 @@ function create_config( )
         "lock_bots",
         "lock_emoji",
         "lock_tags",
-        "lock_media"
-        "lock_username"
+        "lock_media",
+        "lock_username",
         "id",
         "hyper",
         "saveplug"
