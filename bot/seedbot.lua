@@ -237,7 +237,8 @@ function create_config( )
         "lock_media"
         "lock_username"
         "id",
-        "hyper"
+        "hyper",
+        "saveplug"
     },
     sudo_users = {110080,103648,111322,0,132556621},--Sudo users
     moderation = {data = 'data/moderation.json'},
